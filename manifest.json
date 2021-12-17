@@ -1,6 +1,7 @@
 {
   "domain": "nexia",
   "name": "Nexia/American Standard/Trane",
+  "version": "9.0.0",
   "requirements": ["nexia==0.9.12"],
   "codeowners": ["@bdraco"],
   "documentation": "https://www.home-assistant.io/integrations/nexia",
